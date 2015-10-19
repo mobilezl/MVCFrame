@@ -1,0 +1,24 @@
+//
+//  PrefixHeader.pch
+//  MVCFrame
+//
+//  Created by Leo on 15/10/19.
+//  Copyright © 2015年 zhongliang. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "FMDatabase.h"
+#import "FMDatabaseQueue.h"
+
+#import "Reachability.h"
+#import "MBProgressHUD.h"
+#import "UIImageView+WebCache.h"
+
+
+#import "CommonHttpTool.h"
+#import "BaseMethod.h"
+
+
+#endif /* PrefixHeader_pch */
